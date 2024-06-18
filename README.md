@@ -187,4 +187,4 @@ If you have any questions or suggestions, please feel free to contact:
 
 ---
 
-This README provides a comprehensive guide to getting started with the project, including prerequisites, installation, usage, and an example script for combining pruning, quantization, and weight sharing integrated with Dispersive Flies Optimization (DFO). Adjust and expand as necessary based on your specific needs and project structure.
+This README provides a comprehensive guide to getting started with the project, including prerequisites, installation, usage, and an example script for combining pruning, quantization, and weight sharing integrated with Dispersive Flies Optimization (DFO).
