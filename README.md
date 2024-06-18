@@ -1,7 +1,7 @@
 
 ---
 
-# Neural Network Optimization Project
+# Neural Network Optimization
 
 ## Overview
 
